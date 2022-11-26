@@ -12,3 +12,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+ActualGame/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
+ActualGame/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+ActualGame/WindowsNoEditor/Toss.exe
+ActualGame/WindowsNoEditor/Toss/Content/Paks/Toss-WindowsNoEditor.pak
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
