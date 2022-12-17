@@ -18,3 +18,7 @@ ActualGame/WindowsNoEditor/Toss.exe
 ActualGame/WindowsNoEditor/Toss/Content/Paks/Toss-WindowsNoEditor.pak
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+ActualGame/Toss 0.1.1/WindowsNoEditor/Toss/Content/Paks/Toss-WindowsNoEditor.pak
+ActualGame/Toss 0.1.1/WindowsNoEditor/Toss.exe
+ActualGame/Toss 0.1.1/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+ActualGame/Toss 0.1.1/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
